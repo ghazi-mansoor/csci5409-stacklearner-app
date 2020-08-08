@@ -1,4 +1,4 @@
-# Assignment 4: StackLearner
+# Final Project Report: StackLearner
 
 * Date Created: 02 07 2020
 * Last Modification Date: 25 07 2020
@@ -6,7 +6,7 @@
 ## Getting Started
 
 * Deployment URL: https://stacklearner-a4-csci5709.herokuapp.com/
-* Repository URL: https://git.cs.dal.ca/dpandya/group17-stacklearner-a4
+* Repository URL: https://git.cs.dal.ca/daksh/StackLearner
 
 ## Features: Author's and Tasks
 
